@@ -1,0 +1,40 @@
+body {
+  padding: 1em
+}
+
+.animalTradingCard {
+  height: auto;
+  width: 300px;
+  box-shadow: 10px 10px 10px rgb(216, 216, 216);
+  padding: 10px;
+  border: 1px solid #ddd
+}
+
+.animalName {
+  font-size: 1.5em
+}
+
+.animalTradingCardInfo {
+  padding: 1em;
+  border: 1px solid #ddd
+}
+
+.animalImage {
+  width: 300px;
+  height: auto;
+  display: block;
+  padding-bottom: 1em
+}
+
+.animalFact {
+  font-style: italic;
+}
+
+.animalList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.listItems {
+  font-weight: bold;
+}
